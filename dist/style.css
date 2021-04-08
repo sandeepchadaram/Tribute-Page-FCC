@@ -1,0 +1,58 @@
+body {
+  font-family: segoe ui;
+  background: #ffffff;
+  color: black;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 30px;
+  margin-top: -20px;
+}
+h3{
+  font-size: 24px;
+}
+#img-div{
+  margin-top: 50px;
+  max-width: 100%;
+  border:5px solid white;
+  background: white;
+}
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+#img-caption{
+  margin: 15px;
+  font-size: 16px;
+  font-family: calibri;
+}
+ul{
+  max-width: 720px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.8;
+}
+li{
+  margin: 16px 0;
+  font-family: segoe ui;
+}
+#EUspeech{
+  font-style: italic;
+  max-width: 720px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.8;
+}
+#tribute-link{
+  font-family: calibri;
+  font-style: italic;
+}
+#tlink{
+  font-family: calibri light;
+  font-size: 18px;
+}
